@@ -5,7 +5,7 @@
 
 [Introduction](https://github.com/arbaz5656/vendor-management-system-django#introduction)
 
-[Roadmap](https://github.com/bhush-n/vendor_management#roadmap)
+[Installation](https://github.com/arbaz5656/vendor-management-system-django#installation)
 
 [Features](https://github.com/bhush-n/vendor_management#features)
 
@@ -13,7 +13,6 @@
 
 [Tech Stack](https://github.com/bhush-n/vendor_management#tech-stack)
 
-[Installation](https://github.com/bhush-n/vendor_management#installation)
 
 [Deployment](https://github.com/bhush-n/vendor_management#deployment)
 
