@@ -145,6 +145,10 @@ __Simple HTML page for Vendor List__\
 
 ![Vendor List](Vendor_list.png)
 
+__Admin__
+
+![Admin](admin.png)
+
 __Vendor List API Endpoint__
 
 ![Vendor List API endpoint](vendor_list_endpoint.png)
