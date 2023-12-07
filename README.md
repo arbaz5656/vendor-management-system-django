@@ -1,25 +1,5 @@
-Vendor Management System
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Table of contents
-
-Introduction
-
-Roadmap
-
-Features
-
-API References
-
-Tech Stack
-
-Installation
-
-Deployment
-
-Screenshots
-
-Author/Company
-
-FAQ
-
-Support
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
