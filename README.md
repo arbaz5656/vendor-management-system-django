@@ -30,7 +30,7 @@ The Vendor Management System includes the following key features:
 
 Follow these steps to set up and run the Vendor Management System locally.
 
-1. Clone the Repository
+1. **Clone the Repository**
 
 ```bash
    - git clone https://github.com/your-username/vendor-management-system.git
@@ -53,3 +53,14 @@ Follow these steps to set up and run the Vendor Management System locally.
 
   - python manage.py createsuperuser
     Follow the prompts to set up your superuser account.
+
+5. **Run the Development Server**
+   Start the Django development server.
+  - python manage.py runserver
+
+6. **Access the Home page** 
+   Visit http://127.0.0.1:8000 in your web browser.
+
+7. **Access the Admin Interface (Optional)**
+   Visit http://127.0.0.1:8000/admin/ in your web browser and log in with the superuser credentials.
+
