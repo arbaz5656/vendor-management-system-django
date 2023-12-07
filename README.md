@@ -151,15 +151,15 @@ __Admin__
 
 __Vendor List API Endpoint__
 
-![Vendor List API endpoint](vendor_list_endpoint.png)
+![Vendor List API endpoint](SS/vendors.png)
 
 __Purchase Order API Endpoint__
 
-![Purchase Order API endpoint](purchaseorder_endpoint.png)
+![Purchase Order API endpoint](SS/purchaseorder.png)
 
 __Historical Performance API Endpoint__
 
-![Historical Performance API endpoint](Historical_Performance_endpoint.png)
+![Historical Performance API endpoint](SS/historical.png)
 
 ## ASSIGNEMENT BY
 
