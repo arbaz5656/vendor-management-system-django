@@ -1,6 +1,6 @@
-# Project Title
+# Vendor Management System
 
-Brief description or introduction to your project.
+This project is a Vendor Management System implemented using Django and Django REST Framework. It includes features for managing vendor profiles, tracking purchase orders, and calculating vendor performance metrics.
 
 ## Table of Contents
 
