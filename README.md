@@ -10,19 +10,24 @@ This project is a Vendor Management System implemented using Django and Django R
 - [Run the Test Suite](#run-the-test-suite)
 - [Contributors](#contributors)
 - [License](#license)
-- 
+  
 ## Introduction
 
 Provide instructions on how to install your project. Include any dependencies or prerequisites.
 
-## Usage
+## Setup Instructions
 
 Explain how to use your project. You can include code examples or usage scenarios here.
 
-## Contributing
+## API Endpoints
 
 If you're open to contributions, explain how others can contribute to your project.
 
-## License
+## Run the Test Suite
 
 Include information about the license of your project.
+
+## Contributors
+aisjuqsjqnwonowqn
+
+## License
