@@ -17,39 +17,61 @@
 
 ## Introduction
 
-The Vendor Management System, developed using Django, is a web application designed for streamlined vendor relationship management. 
+The Vendor Management System includes the following key features:
 
-It encompasses functionalities for managing vendor profiles, tracking purchase orders, and evaluating vendor performance. 
+1. **Vendor Profile Management:**
+   - Create, update, retrieve, and delete vendor profiles.
+   - Store essential information such as name, contact details, address, and a unique vendor code.
 
-Users can create, update, and delete vendor profiles, monitor purchase orders, and assess vendor performance metrics such as on-time delivery rate, quality rating average, average response time, and fulfillment rate. 
+2. **Purchase Order Tracking:**
+   - Track purchase orders with details like PO number, vendor reference, order date, items, quantity, and status.
+   - Create, update, retrieve, and delete purchase orders.
+
+3. **Vendor Performance Evaluation:**
+   - Calculate performance metrics for vendors, including on-time delivery rate, quality rating average, response time, and fulfillment rate.
+   - Historical performance data for trend analysis.
 
 
-## Roadmap
+## Installation
 
-- __Start and Plan:__ Understand the project scope and set up the basic structure.
+```bash
+Follow these steps to set up and run the Vendor Management System locally.
 
-- __Vendor Setup:__ Create a system to manage vendor information and test it.
+1. **Clone the Repository**
 
-- __Purchase Order Management:__ Develop purchase order forms and check their functionality.
+```bash
+   - git clone https://github.com/your-username/vendor-management-system.git
+       cd vendor-management-system
 
-- __Performance Evaluation:__ Add a scoring system for vendors and calculate scores dynamically.
+2. **Install Dependencies**
+```bash
+   Make sure you have Python and pip installed. Then, install the project dependencies.
 
-- __Historical Tracking:__ Include a history feature to track vendor performance over time.
+  - pip install -r requirements.txt
 
-- __Testing Phase:__ Conduct thorough testing, find and fix bugs.
+3. **Apply Migrations**
+   Apply the database migrations to set up the initial database schema.
 
-- __Deployment:__ Put the system online for use.
+   - python manage.py makemigrations
+   - python manage.py migrate
 
-- __Maintenance:__ Keep an eye on the system, fix issues, and assist users.
+4. **Create a Superuser**
+   Create a superuser account to access the Django admin interface.
 
-## Features
+  - python manage.py createsuperuser
+    Follow the prompts to set up your superuser account.
 
-- User/Admin can add or remove vendors 
-- Vendors can see the list of different members
-- Admin can give the perfect calculations for performance
-- Easy to use
-- API endpoints can be checked using Django ORM
-- No need of any tools is needed for API endpoints checking.
+5. **Run the Development Server**
+   Start the Django development server.
+  - python manage.py runserver
+
+6. **Access the Home page** 
+   Visit http://127.0.0.1:8000 in your web browser.
+
+7. **Access the Admin Interface (Optional)**
+   Visit http://127.0.0.1:8000/admin/ in your web browser and log in with the superuser credentials.
+
+```
 
 
 ## API Reference
@@ -82,38 +104,6 @@ Users can create, update, and delete vendor profiles, monitor purchase orders, a
   GET /api/vendors/{vendor_id}/performance
 ```
 
-## Tech Stack
-
-**Stack:** Python, Django, dbsqlite3
-
-**Server:** localhost:8000
-
-
-## Installation
-
-```bash
-python -m venv venv
-
-source venv/Scripts/activate
-
-pip install django
-
-pip install djangorestframework
-
-pip install -r requirements.txt
-
-python manage.py makemigrations 
-
-python manage.py migrate
-
-python manage.py createsuperuser 
-
-python manage.py runserver
-
-http://localhost:8000/vendors/  --for vendor list
-
-http://localhost:8000/admin  --for admin
-```
 ## Deployment
 
 To deploy this project on git
