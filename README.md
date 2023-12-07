@@ -64,3 +64,43 @@ Follow these steps to set up and run the Vendor Management System locally.
 7. **Access the Admin Interface (Optional)**
    Visit http://127.0.0.1:8000/admin/ in your web browser and log in with the superuser credentials.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## API Endpoints
+
+If you're open to contributions, explain how others can contribute to your project.
+
+## Run the Test Suite
+
+Include information about the license of your project.
+
+## Contributors
+aisjuqsjqnwonowqn
+
+## License
+
