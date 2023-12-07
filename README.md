@@ -7,18 +7,13 @@
 
 [Installation](https://github.com/arbaz5656/vendor-management-system-django#installation)
 
-[Features](https://github.com/bhush-n/vendor_management#features)
+[API References](https://github.com/arbaz5656/vendor-management-system-django#api-reference)
 
-[API References](https://github.com/bhush-n/vendor_management#api-reference)
+[Screenshots](https://github.com/arbaz5656/vendor-management-system-django#screenshots)
 
-[Tech Stack](https://github.com/bhush-n/vendor_management#tech-stack)
+[Assignment-By](https://github.com/arbaz5656/vendor-management-system-django#assignement-by)
 
-
-[Deployment](https://github.com/bhush-n/vendor_management#deployment)
-
-[Screenshots](https://github.com/bhush-n/vendor_management#screenshots)
-
-[Support](https://github.com/bhush-n/vendor_management#support)
+[Support](https://github.com/arbaz5656/vendor-management-system-django#support)
 
 ## Introduction
 
