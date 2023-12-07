@@ -12,8 +12,19 @@ This project is a Vendor Management System implemented using Django and Django R
 - [License](#license)
   
 ## Introduction
+The Vendor Management System includes the following key features:
 
-Provide instructions on how to install your project. Include any dependencies or prerequisites.
+1. **Vendor Profile Management:**
+   - Create, update, retrieve, and delete vendor profiles.
+   - Store essential information such as name, contact details, address, and a unique vendor code.
+
+2. **Purchase Order Tracking:**
+   - Track purchase orders with details like PO number, vendor reference, order date, items, quantity, and status.
+   - Create, update, retrieve, and delete purchase orders.
+
+3. **Vendor Performance Evaluation:**
+   - Calculate performance metrics for vendors, including on-time delivery rate, quality rating average, response time, and fulfillment rate.
+   - Historical performance data for trend analysis.
 
 ## Setup Instructions
 
