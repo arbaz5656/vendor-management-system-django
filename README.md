@@ -20,43 +20,6 @@ This project is a Vendor Management System implemented using Django and Django R
 git clone https://github.com/your-username/vendor-management-system.git
 cd vendor-management-system
 
-### 2. Install Dependencies
+## Screenshots
 
-```bash
-Copy code
-pip install -r requirements.txt
-
-3. Apply Migrations
-bash
-Copy code
-python manage.py makemigrations
-python manage.py migrate
-4. Create a Superuser (Optional)
-bash
-Copy code
-python manage.py createsuperuser
-5. Run the Development Server
-bash
-Copy code
-python manage.py runserver
-6. Access the Admin Interface (Optional)
-Visit http://127.0.0.1:8000/admin/ and log in with the superuser credentials.
-
-#7. Test API Endpoints
-Vendor List: http://127.0.0.1:8000/api/vendors/
-Purchase Order List: http://127.0.0.1:8000/api/purchase_orders/
-Run the Test Suite
-bash
-Copy code
-python manage.py test
-Contributors
-Your Name your.email@example.com
-License
-This project is licensed under the MIT License.
-
-sql
-Copy code
-
-Please replace the placeholders like `your-username`, `Your Name`, and `your.email@example.com` with your actual GitHub username, name, and email address. Adjust the URLs if your project has a different structure or runs on a different port.
-
-This template covers the basic setup instructions, API endpoints, running test
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
