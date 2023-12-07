@@ -141,9 +141,9 @@ To deploy this project on git
 
 ## Screenshots
 
-__Simple HTML page for Vendor List__\
+__Home page for Vendor Details__\
 
-![Vendor List](Vendor_list.png)
+![Vendor Details](SS/home.png)
 
 __Admin__
 
