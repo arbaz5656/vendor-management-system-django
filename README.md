@@ -30,11 +30,15 @@ The Vendor Management System includes the following key features:
 
 Follow these steps to set up and run the Vendor Management System locally.
 
-### 1. Clone the Repository
+1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/vendor-management-system.git
-cd vendor-management-system
+   - git clone https://github.com/your-username/vendor-management-system.git
+       cd vendor-management-system
+
+2. **Install Dependencies**
+```bash
+  - Make sure you have Python and pip installed. Then, install the project dependencies.
 
 ## API Endpoints
 
