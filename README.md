@@ -38,12 +38,17 @@ Follow these steps to set up and run the Vendor Management System locally.
 
 2. **Install Dependencies**
 ```bash
-  - Make sure you have Python and pip installed. Then, install the project dependencies.
+   Make sure you have Python and pip installed. Then, install the project dependencies.
 
-   pip install -r requirements.txt
+  - pip install -r requirements.txt
 
 3. **Apply Migrations**
    Apply the database migrations to set up the initial database schema.
 
-    python manage.py makemigrations
-    python manage.py migrate
+   - python manage.py makemigrations
+   - python manage.py migrate
+
+4. **Create a Superuser**
+   Create a superuser account to access the Django admin interface.
+
+  - python manage.py createsuperuser
