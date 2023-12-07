@@ -165,54 +165,8 @@ This project is assisgned by the following company:
 
 
 
-## FAQ
-
-#### 1) I am getting the problem in database migration?
-
-First of all check all your databases if the db file has been created or not.
-Still if the problem pursuits, go to migration files and delete all the migrations files without __init__.py.
-Remigrate the database and it should be solved now.
-
-__How to check the database__
-
- Run the following commands in bash.
-- python manage.py dbshell
-- .table
-
-___
-
-#### 2) Api endpoints are not visible on cmd, What should I do?
-
-Api endpoints can only be checked by the tools like __POSTMAN__ or you can check it using __DJANGO_ORM__.
-
-For using Django-ORM, You have to register for the admin in project using
- - python manage.py createsuperuser
-
-Then you have to create the admin pages for all the API endpoints models in admin.py file.
-
-After successfully completing all this steps, You can now check your endpoints without any error.
-
-___
-#### 3) I am unable to load the localhost server on web?
-
-If your server is not running by following IP: http://127.0.0.1:8000/vendors/ or http://localhost:8000/vendors/, It might happen beacause of unproper url paths. 
-
-Recheck your urls.py in app if it correctly given or not.
-
-___
-
-#### 4) I have successfully installed djangorestframework but still it is giving error for it is not defined, what should i do?
-
-It might happen almost because of only one mistake you do, Which is not installing the appname or library name in __INSTALLED APP__ setting present in settings.py file of main project.
-
-___
-
-```http
-- If you have more questions you can drop a mail on :
-```
-bhushanch45@gmail.com
 ___
 ## Support
 
-For support, email bhushanch45@gmail.com
+For support, email shaikharbaz28691@gmail.com
 
