@@ -19,3 +19,8 @@ This project is a Vendor Management System implemented using Django and Django R
 ```bash
 git clone https://github.com/your-username/vendor-management-system.git
 cd vendor-management-system
+
+### 2. Install Dependencies
+```bash
+Copy code
+pip install -r requirements.txt
