@@ -1,9 +1,8 @@
 # Vendor Management System
 
-This project is a Vendor Management System implemented using Django and Django REST Framework. It includes features for managing vendor profiles, tracking purchase orders, and calculating vendor performance metrics.
-
 ## Table of Contents
 
+- [Introduction](#introduction)
 - [Setup Instructions](#setup-instructions)
 - [API Endpoints](#api-endpoints)
 - [Run the Test Suite](#run-the-test-suite)
