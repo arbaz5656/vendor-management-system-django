@@ -4,6 +4,7 @@ Brief description or introduction to your project.
 
 ## Table of Contents
 
+- [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
