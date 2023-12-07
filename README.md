@@ -90,21 +90,21 @@ Purchase Order List: http://127.0.0.1:8000/api/purchase_orders/
 
 #### Purchase Order Tracking:
 
-```http
+
 ● POST /api/purchase_orders/: Create a purchase order.
 ● GET /api/purchase_orders/: List all purchase orders with an option to filter by
   vendor.
 ● GET /api/purchase_orders/{po_id}/: Retrieve details of a specific purchase order.
 ● PUT /api/purchase_orders/{po_id}/: Update a purchase order.
-● DELETE /api/purchase_orders/{po_id}/: Delete a purchase order.```
+● DELETE /api/purchase_orders/{po_id}/: Delete a purchase order.
 
 
 #### Historical Performance:
 
-```http
+
  ● GET /api/vendors/{vendor_id}/performance: Retrieve a vendor's performance
    metrics.
-```
+
 
 ## Deployment
 
