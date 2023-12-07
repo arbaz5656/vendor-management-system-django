@@ -5,12 +5,13 @@ This project is a Vendor Management System implemented using Django and Django R
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Setup Instructions](#setup-instructions)
+- [API Endpoints](#api-endpoints)
+- [Run the Test Suite](#run-the-test-suite)
+- [Contributors](#contributors)
 - [License](#license)
-
-## Installation
+- 
+## Introduction
 
 Provide instructions on how to install your project. Include any dependencies or prerequisites.
 
