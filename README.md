@@ -40,15 +40,6 @@ Follow these steps to set up and run the Vendor Management System locally.
 ```bash
   - Make sure you have Python and pip installed. Then, install the project dependencies.
 
-## API Endpoints
+  bash
+   pip install -r requirements.txt
 
-If you're open to contributions, explain how others can contribute to your project.
-
-## Run the Test Suite
-
-Include information about the license of your project.
-
-## Contributors
-aisjuqsjqnwonowqn
-
-## License
