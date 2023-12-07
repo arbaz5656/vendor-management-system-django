@@ -3,7 +3,7 @@
 
 ## Table of contents
 
-[Introduction](https://github.com/bhush-n/vendor_management#introduction)
+[Introduction](https://github.com/arbaz5656/vendor-management-system-django#introduction)
 
 [Roadmap](https://github.com/bhush-n/vendor_management#roadmap)
 
@@ -18,10 +18,6 @@
 [Deployment](https://github.com/bhush-n/vendor_management#deployment)
 
 [Screenshots](https://github.com/bhush-n/vendor_management#screenshots)
-
-[Author/Company](https://github.com/bhush-n/vendor_management#assignement-by)
-
-[FAQ](https://github.com/bhush-n/vendor_management#faq)
 
 [Support](https://github.com/bhush-n/vendor_management#support)
 
