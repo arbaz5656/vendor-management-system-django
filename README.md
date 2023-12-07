@@ -161,6 +161,24 @@ __Historical Performance API Endpoint__
 
 ![Historical Performance API endpoint](SS/historical.png)
 
+__Rest Framework Vendors Api1__
+
+![Rest Framework Api1](SS/api-vendors1.png)
+
+__Rest Framework Vendors Api2__
+
+![Rest Framework Api2](SS/api-vendors2.png)
+
+__Rest Framework Purchase Api1__
+
+![Rest Framework Purchase Api1](SS/api-purchase1.png)
+
+
+__Rest Framework Purchase Api2__
+
+![Rest Framework Purchase Api2](SS/api-purchase2.png)
+
+
 ## ASSIGNEMENT BY
 
 This project is assisgned by the following company:
