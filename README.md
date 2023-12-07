@@ -40,6 +40,10 @@ Follow these steps to set up and run the Vendor Management System locally.
 ```bash
   - Make sure you have Python and pip installed. Then, install the project dependencies.
 
-  bash
    pip install -r requirements.txt
 
+3. **Apply Migrations**
+   Apply the database migrations to set up the initial database schema.
+
+    python manage.py makemigrations
+    python manage.py migrate
