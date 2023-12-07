@@ -28,7 +28,13 @@ The Vendor Management System includes the following key features:
 
 ## Setup Instructions
 
-Explain how to use your project. You can include code examples or usage scenarios here.
+Follow these steps to set up and run the Vendor Management System locally.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/vendor-management-system.git
+cd vendor-management-system
 
 ## API Endpoints
 
